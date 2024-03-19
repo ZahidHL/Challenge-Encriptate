@@ -46,4 +46,5 @@ Zahid Hidalgo Lechuga
 ## Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/ZahidHL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zahid-hidalgo-lechuga-577b942ba/)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white)](mailto:zahidhidalgo64@gmail.com)
